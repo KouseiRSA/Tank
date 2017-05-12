@@ -1,0 +1,232 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1796
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=3079 outsize=367 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=2970 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2963 outsize=453 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2769 outsize=1014 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2769 outsize=3013 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2771 outsize=1014 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2771 outsize=2769 kw= pd= ok=1
+Cmd: preprocess
+  insize=2526 outsize=308 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=2523 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2600 outsize=433 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=2425 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=3618 outsize=416 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3462 outsize=1006 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3462 outsize=6539 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3465 outsize=1006 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3465 outsize=6539 kw= pd= ok=1
+Cmd: preprocess
+  insize=5780 outsize=1911 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=3996 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2188 outsize=313 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2180 outsize=1014 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2180 outsize=3224 kw= pd= ok=1
+Cmd: preprocess
+  insize=31347 outsize=1754 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=29134 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2601 outsize=1594 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=439 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=7066 outsize=957 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=6114 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=934 outsize=312 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=927 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  error: 1 plat 18 at (190): #pragma target with unknown target: #pragma target 4.5
+  error: 1 plat 18 at (200): #pragma target with unknown target: #pragma target 4.5
+  error: 1 plat 18 at (210): #pragma target with unknown target: #pragma target 4.5
+  insize=6596 outsize=564 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=6247 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1868 outsize=315 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1858 outsize=1014 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1858 outsize=2216 kw= pd= ok=1
+Cmd: preprocess
+  insize=10509 outsize=683 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=10137 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=4145 outsize=625 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3746 outsize=1014 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3746 outsize=2363 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3742 outsize=1014 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3742 outsize=2517 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3744 outsize=1014 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3744 outsize=2850 kw= pd= ok=1
+Cmd: preprocess
+  insize=2143 outsize=1225 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=536 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1652 outsize=411 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1509 outsize=1006 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1509 outsize=1761 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1509 outsize=1006 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1509 outsize=1461 kw= pd= ok=1
+Cmd: preprocess
+  insize=3299 outsize=261 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=3348 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=3092 outsize=1750 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=470 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1893 outsize=1094 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at Common.cginc(42): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=415 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10618 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5515 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3776 kw=SHADOWS_DEPTH _ALPHABLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=1233 kw=SHADOWS_DEPTH _ALPHABLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHABLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10642 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHABLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF _ALPHABLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5539 kw=DIRECTIONAL SHADOWS_OFF _ALPHABLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION _ALPHABLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10853 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION _ALPHABLEND_ON pd= ok=1
+Cmd: compileCompute
+  error: 2 plat 4 at VectorscopeCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=1382 outsize=61 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at VectorscopeCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=1382 outsize=61 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at VectorscopeCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=15 insize=1382 outsize=61 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at VectorscopeCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=9 insize=1382 outsize=61 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at VectorscopeCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=1382 outsize=61 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at HistogramCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=3176 outsize=85 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at HistogramCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=3176 outsize=85 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at HistogramCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=15 insize=3176 outsize=85 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at HistogramCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=9 insize=3176 outsize=85 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at HistogramCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=3176 outsize=85 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WaveformCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=1480 outsize=57 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WaveformCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=1480 outsize=57 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WaveformCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=15 insize=1480 outsize=57 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WaveformCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=9 insize=1480 outsize=57 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at WaveformCompute.compute(1): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=1480 outsize=57 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at Common.cginc(4): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=2283 outsize=37 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at Common.cginc(4): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=2283 outsize=37 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at Common.cginc(4): failed to open source file: 'UnityCG.cginc'
+  api=15 insize=2283 outsize=37 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at Common.cginc(4): failed to open source file: 'UnityCG.cginc'
+  api=9 insize=2283 outsize=37 ok=0
+Cmd: compileCompute
+  error: 2 plat 4 at Common.cginc(4): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=2283 outsize=37 ok=0
+Cmd: compileSnippet
+  api=4 type=0 insize=13030 outsize=11024 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=13030 outsize=1899 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4337 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10926 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1420 outsize=1379 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1420 outsize=1704 kw= pd= ok=1
